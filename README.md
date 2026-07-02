@@ -1,4 +1,5 @@
- ## About Me:
+![Profile Views](https://komarev.com/ghpvc/?username=priyaaa405&color=blue) 
+## About Me:
 I'm Priya Rani, an aspiring Software Engineer passionate about building practical and user-friendly applications.<br><br>Currently learning Data Structures & Algorithms <br>Exploring Full-Stack Development and Python<br>UI/UX <br>C/C++/JavaScript/SQL
 
 
