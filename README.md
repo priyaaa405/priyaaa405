@@ -27,17 +27,13 @@ I believe the best way to learn software engineering is to **build, break, fix, 
 
 ---
 
-## 🏆 Open Source
+## 🌍 Open Source
 
-I enjoy contributing to real-world open-source projects and learning from experienced developers.
+Contributing to open-source projects, fixing bugs, improving features, and learning from real-world codebases.
 
-Some of my recent contributions include work on:
-
-- **freeCodeCamp**
-- **DevFlow**
-- Other open-source projects and community repositories
-
-I'm always looking for interesting issues where I can learn something new and contribute meaningfully.
+- **freeCodeCamp** — bug fixes and improvements
+- **DevFlow** — dashboard feature enhancement
+- **Other community projects** — fixes and improvements
 
 ---
 
