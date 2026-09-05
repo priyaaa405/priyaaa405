@@ -1,5 +1,4 @@
-                                                   #Hey, I'm Priya Rani 👋
-
+# Heyy!! I am Priya Rani.
 ### Aspiring Software Engineer | Full-Stack Developer | Open-Source Contributor
 
 I'm Priya, an aspiring Software Engineer who enjoys building practical, user-friendly applications and solving problems through code.
